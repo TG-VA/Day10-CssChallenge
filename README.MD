@@ -35,7 +35,7 @@ Sólo me uní al [reto de sus 100 días](https://100dayscss.com/how-to/ "reto de
 Puedes ver este reto en vivo en mi [Codepen](https://codepen.io/TristanVenegas/pen/OJBQNpq "Codepen").
 
 ###  📄Introducción
-**Reloj: **¿Clásico, noble, moderno o juguetón? ¿Cómo quiere que sea su reloj favorito?
+**Reloj:** ¿Clásico, noble, moderno o juguetón? ¿Cómo quiere que sea su reloj favorito?
 **Desarrollado con HTML y CSS VAINILLA.**
 
 ### ✒️  Autor
